@@ -168,6 +168,28 @@ code {
     top: 0;
 }
 
+#join_code_room {
+    margin-top: 30px;
+}
+
+#global_join_button {
+    background-color: #323232;
+    height: 35px;
+    /*padding: 5px;*/
+    width: 200px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: sans-serif;
+    position: relative;
+    display: inline-block;
+    justify-content: center;
+    border: 2px solid #323232;
+    color: #bbbbbb;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
 #tosendb_auth {
     background-color: #323232;
     height: 35px;
@@ -185,6 +207,45 @@ code {
     border-radius: 5px;
     margin-top: 30px;
     cursor: pointer;
+    margin-top: 30px;
+}
+
+#tosendb_auth_db {
+    background-color: #323232;
+    height: 35px;
+    /*padding: 5px;*/
+    width: 200px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: sans-serif;
+    position: relative;
+    display: inline-block;
+    justify-content: center;
+    border: 2px solid #323232;
+    color: #bbbbbb;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+#local_create_room {
+    background-color: #323232;
+    height: 35px;
+    /*padding: 5px;*/
+    width: 200px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: sans-serif;
+    position: relative;
+    display: inline-block;
+    justify-content: center;
+    border: 2px solid #323232;
+    color: #bbbbbb;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
 }
 
 .reg_anotation {
